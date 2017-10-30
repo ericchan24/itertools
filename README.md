@@ -1,4 +1,4 @@
-## Itertools investigation  
+## Itertools tutorial  
 
 In this investigation I examine the itertools module and I do a recap on generators.  
 Itertools is a module in the standard python library. It comprises of a set of fast, memory efficient tools that are useful by themselves or in combination.  
